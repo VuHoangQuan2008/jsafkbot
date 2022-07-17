@@ -1,0 +1,15 @@
+{
+    "ip": "game2.falixserver.net",
+    "port": "53163",
+    "name": "YoMama1",
+    "password": "",
+    "auto-night-skip": "false",
+    "prefix": "",
+    "login-enabled": "false",
+    "register-cmd": "/login kartikopp kartikopp",
+    "login-cmd": "/login kartikopp",
+    "loginmsg": "done",
+    "auto-reconnect": "true",
+    "web": "true"
+    
+}
