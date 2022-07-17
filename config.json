@@ -1,0 +1,9 @@
+{
+	"ip":"game2.falixserver.net",
+	"port": 53163,
+	"name": "YoMama",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register 123123123 123123123",
+	"login-cmd":"/login 123123123"
+}
